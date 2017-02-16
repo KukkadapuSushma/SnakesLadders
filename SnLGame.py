@@ -12,7 +12,7 @@ Snakes = {97:75, 66:52, 63:60, 47:25, 31:4, 16:13}
 
 def Roll_Dice(): 
   
-   """Generates a Random number for handling Dice throws"""
+   """Generates a Random number for handling Dice throw"""
 
    DiceNum = random.randint(1, 6)
    return DiceNum
